@@ -1,0 +1,6 @@
+.card-item {
+  width: 33%;
+  &:not(:last-child) {
+    margin-right: 20px;
+  }
+}

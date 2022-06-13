@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+.my-masonry-grid {
+  display: flex;
+  width: auto;
+  gap: 10px;
+}
+.my-masonry-grid_column {
+  background-clip: padding-box;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
